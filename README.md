@@ -3,7 +3,7 @@
 Hello! 
 this is a react/django authentication boilerplate
 
-#setup for the frontend react app
+# setup for the frontend react app
 
 first clone the repo.
 `cd snakeClient`
@@ -16,7 +16,7 @@ and run it
 
 `npm start`
 
-#setup for the django app
+# setup for the django app
 
 add the rest_users folder to your django project 
 
