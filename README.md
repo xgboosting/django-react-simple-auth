@@ -5,7 +5,9 @@ this is a react/django authentication boilerplate
 
 # setup for the frontend react app
 
-first clone the repo.
+first clone the repo.  
+then  
+
 `cd snakeClient`
 
 install dependencies 
