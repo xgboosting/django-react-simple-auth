@@ -1,0 +1,33 @@
+{
+  "plugins": ["react"],
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "airbnb"
+  ],
+  "env": {
+    "jquery": true
+  },
+  "globals": {
+    "Spree": false
+  },
+  "rules": {
+    "strict": 0,
+    "react/jsx-filename-extension": [
+      1,
+      {
+        "extensions": [
+          ".js",
+          ".jsx"
+        ]
+      }
+    ],
+    "react/forbid-prop-types": "off",
+    "react/require-default-props": "off",
+    "react/no-did-mount-set-state": "off",
+    "class-methods-use-this": "off",
+    "jsx-a11y/label-has-for": "off",
+    "no-console": "off",
+    "no-unused-vars": ["error", {"argsIgnorePattern": "^_"}]
+  }
+}

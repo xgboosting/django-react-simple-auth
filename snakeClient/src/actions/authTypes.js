@@ -1,0 +1,12 @@
+export const HELLO_WORLD = 'HELLO_WORLD';
+export const RESET = 'RESET';
+export const LOADING_FALSE = 'LOADING_FALSE';
+export const LOADING = 'LOADING';
+export const SET_AUTHTOKEN = 'SET_AUTHTOKEN';
+export const SET_GUEST= 'SET_GUEST';
+export const MESSAGE = 'MESSAGE';
+export const LOGIN_MESSAGE = 'LOGIN_MESSAGE';
+export const RECOVER_PASSWORD = 'RECOVER_PASSWORD';
+export const CHANGE_MESSAGE = 'CHANGE_MESSAGE';
+export const LOG_OUT = 'LOG_OUT';
+export const SET_AUTH = 'SET_AUTH';
